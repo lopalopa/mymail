@@ -57,7 +57,7 @@ mymail/
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/mymail.git
+git clone https://github.com/lopalopa/mymail.git
 Move the folder into your XAMPP htdocs or WAMP www directory:
 
 C:/xampp/htdocs/mymail
@@ -93,9 +93,9 @@ User Profile → profile.php
 
 📚 Blog
 Check the full step-by-step tutorial on how this project was developed:
-🔗 Read the blog here
-
-
+🔗 Read the blog 
+https://developerrashmi101.blogspot.com/2025/08/from-scratch-to-inbox-develop-gmail.html
+youtube: https://youtu.be/NtAwMTiLSEM
 💡 Use Cases
 Academic Mini Projects
 
@@ -107,5 +107,6 @@ Practice for Bootstrap UI design
 
 🙌 Author
 Developed by Rashmi Prava Mishra
-🔗 LinkedIn
-🔗 GitHub
+🔗 [LinkedIn](https://www.linkedin.com/in/rashmi-mishra-187734106/)
+🔗 [GitHub](https://github.com/lopalopa/]
+🔗 [Blog](https://developerrashmi101.blogspot.com/2025/08/from-scratch-to-inbox-develop-gmail.html)
